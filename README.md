@@ -8,10 +8,10 @@ Hit me up on WhatsApp : +34 624 24 86 63
 
 <img width="1366" height="768" alt="Screenshot 2026-05-14 022020" src="https://github.com/user-attachments/assets/ddd1c944-4167-41ea-b135-6c3bb183103f" />
 
-<img width="1366" height="768" alt="Screenshot 2026-05-14 022044" src="https://github.com/user-attachments/assets/e27c5160-3f07-4ac5-bc43-a2c0e0b4c327" />
+
 <img width="1366" height="768" alt="Screenshot 2026-05-14 022044" src="https://github.com/user-attachments/assets/ceae7e6d-f2e2-427e-8ef3-29f429eb1f81" />
 <img width="1366" height="768" alt="Screenshot 2026-05-14 022028" src="https://github.com/user-attachments/assets/94f42498-8b09-4dc2-a42d-70d82d0d5282" />
-dddd
+
 <img width="1366" height="768" alt="Screenshot 2026-05-14 022048" src="https://github.com/user-attachments/assets/18ed23f2-4a38-4fb3-9993-4dc7798b59b8" />
 <img width="1366" height="768" alt="Screenshot 2026-05-14 022100" src="https://github.com/user-attachments/assets/55f86d77-b9ea-4c0f-aa80-bfa46d1092d6" />
 <img width="1366" height="768" alt="Screenshot 2026-05-14 022103" src="https://github.com/user-attachments/assets/4853d822-a46a-4149-ad1e-4b58d8485382" />
