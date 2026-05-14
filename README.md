@@ -1,5 +1,5 @@
 # Irma-tplink
-TP-Link Provisioning Monitoring
+TP-Link Provisioning Monitoring - Get in touch with me: +34 624 24 86 63
 
 🌐 OLT Monitoring System (Telnet Collector & Dashboard)📝 System OverviewThis system is a telecom-grade monitoring solution designed for real-time data collection, storage, exposure, and visualization of metrics from Optical Line Terminals (OLT).The core of the system is a concurrent and optimized Telnet Collector that periodically connects to OLTs, extracts critical performance and health metrics via Command Line Interface (CLI) commands, parses the plain text, and stores the structured data into a MySQL database. A REST API securely exposes this data for an interactive web Dashboard to render diagnostic charts, network states, and manage a multi-channel Alerting System to proactively mitigate network failures.
 
